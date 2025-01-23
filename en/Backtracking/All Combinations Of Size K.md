@@ -2,7 +2,7 @@
 
 ## Summary
 
-This document explains an algorithm to generate all possible combinations of size `k` from a range `[1, n]`. The algorithm uses a backtracking approach to explore combinations systematically. It is efficient and handles edge cases such as `k = 0` or `n < k` gracefully.
+This section explains an algorithm to generate all possible combinations of size `k` from a range `[1, n]`. The algorithm uses a backtracking approach to explore combinations systematically. It is efficient and handles edge cases such as `k = 0` or `n < k` gracefully.
 
 ---
 
